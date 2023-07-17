@@ -14,7 +14,7 @@ p{
 }
 section{
     height: 500px;
-    padding-bottom: 60px;
+    padding-bottom: 40px;
 }
 .orange-highlight{
     color: orange;
@@ -54,13 +54,15 @@ section{
     background-position: left;
 }
 .single-experience{
+
     box-shadow: 10px 10px 40px gray;
     height: 70%;
     padding-right: 25px;
     text-align: justify;
-    background-color: white;
+    background-color: none;
 }
 #full-stack{
+
     border-left: 7px solid;
     border-image: linear-gradient(180deg,  lightsalmon, yellow, tomato);
     border-image-slice: 1;
@@ -69,6 +71,7 @@ section{
     border-image-repeat: round;
 }
 #learn-web{
+
     border-left: 7px solid;
     border-image-repeat: round;
     border-image: linear-gradient(180deg, blue, cyan);
